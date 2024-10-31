@@ -30,6 +30,8 @@ Task 1: Software Requirements in a list of short statements.
 
 
 
+
+
 Task 2: Class Diagram
 
  ![image](https://github.com/user-attachments/assets/9c32de60-4ede-4106-9b1c-7d96675975d0)
