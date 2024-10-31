@@ -1,6 +1,6 @@
 Task 1: Software Requirements in a list of short statements.
 1.	Web-based application – To manage growing network of dental surgeries
-2.	Office Manager 
+2.	Office Manager
 -	Registers Dentists 
 -	Enroll new Patients 
 -	Confirms appointment for patients
