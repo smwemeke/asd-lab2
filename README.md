@@ -1,4 +1,5 @@
-Task 1: Software Requirements
+**Lab 2**
+***Task 1: Software Requirements***
 1.	Web-based application – To manage growing network of dental surgeries
 2.	Office Manager
 -	Registers Dentists 
@@ -32,7 +33,7 @@ Task 1: Software Requirements
 
 
 
-Task 2: Class Diagram
+***Task 2: Class Diagram***
 
  ![image](https://github.com/user-attachments/assets/9c32de60-4ede-4106-9b1c-7d96675975d0)
 
