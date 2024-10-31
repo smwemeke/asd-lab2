@@ -17,7 +17,7 @@
 -	View dentist information
 -	Receive confirmation email, after office manager confirms the appointment
 
- Patient can’t book new appointment if they have unpaid or outstanding bill.
+   Patient can’t book new appointment if they have unpaid or outstanding bill.
 
 4.	Dentist (dentist ID, fName, lName, phoneNumber, email, specialization)
 -	Able to sign in/out of the system
