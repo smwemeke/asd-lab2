@@ -1,4 +1,4 @@
-Task 1: Identify and present the Software Requirements in a list of short statements.
+Task 1: Software Requirements in a list of short statements.
 1.	Web-based application – To manage growing network of dental surgeries
 2.	Office Manager 
 -	Registers Dentists 
@@ -30,8 +30,7 @@ Task 1: Identify and present the Software Requirements in a list of short statem
 
 
 
-Task 2: Perform System Analysis & Design, and create a Domain model UML Class diagram for the
-software solution
+Task 2: Class Diagram
 
  ![image](https://github.com/user-attachments/assets/9c32de60-4ede-4106-9b1c-7d96675975d0)
 
